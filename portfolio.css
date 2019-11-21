@@ -1,0 +1,60 @@
+.title {
+	font-variant: small-caps;
+	font-size: 45px;
+	margin-bottom: 10px;
+}
+
+.header-pic {
+	margin: 0 40px;
+	width: 200px;
+}
+
+.header {
+	margin-top: 40px;
+	background-image: linear-gradient(white, #c4fdff, white);
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	font-size: 20px;
+}
+
+body {
+	font-family: "Gill Sans", sans-serif;
+	font-size: 16px;
+	margin-bottom: 40px;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+a {
+	text-decoration: none;
+	color: #008085;
+}
+
+a:hover,
+ {
+	color: #6d9ea6;
+}
+
+.experience a,
+.experience a:hover {
+	text-decoration: none;
+	color: #000;
+}
+
+.section {
+	margin-left: 20px;
+}
+
+.experience__list {
+	margin-left: 30px;
+}
+
+.education__list {
+	margin-left: 30px;
+}
+
+.social-icon {
+	margin: 0 5px;
+	width: 16px;
+}

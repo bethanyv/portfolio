@@ -1,6 +1,6 @@
 .title {
-	font-variant: small-caps;
 	font-size: 45px;
+	font-variant: small-caps;
 	margin-bottom: 10px;
 }
 
@@ -10,12 +10,12 @@
 }
 
 .header {
-	margin-top: 40px;
 	background-image: linear-gradient(white, #c4fdff, white);
 	display: flex;
 	flex-direction: row;
-	justify-content: flex-start;
 	font-size: 20px;
+	justify-content: flex-start;
+	margin-top: 40px;
 }
 
 body {
@@ -27,19 +27,18 @@ body {
 }
 
 a {
-	text-decoration: none;
 	color: #008085;
+	text-decoration: none;
 }
 
-a:hover,
- {
+a:hover {
 	color: #6d9ea6;
 }
 
 .experience a,
 .experience a:hover {
-	text-decoration: none;
 	color: #000;
+	text-decoration: none;
 }
 
 .section {
